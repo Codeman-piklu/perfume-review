@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height:auto;
+    width:auto;
+}
+.first{
+    height:800px;
+    width:100%;
+    background-color: antiquewhite; } 
+.first img{
+    position:fixed;
+    left: 35%;
+   margin-top:150px;
+}
+.child2{
+  height: 350px;;  
+  width: 240px ;
+  background-color: aliceblue;
+  position: fixed;
+  left:49.20%;
+  top:16.20%;
+  padding: 30px;
+
+}
+h3{
+font-family: sans-serif;
+font-weight:normal;
+letter-spacing: 5px;
+color: rgba(0, 0, 0, 0.596);
+font-size:15px ;
+margin-bottom: 25px;
+
+}
+h1{
+    
+        font-family: "Young Serif", serif;
+        font-weight: 900;
+        font-style: normal;
+        color: rgba(19, 18, 18, 0.925);
+       letter-spacing:-1px;
+        line-height:  30px;
+        margin-bottom: 25px;
+      }
+p{
+    color: rgba(0, 0, 0, 0.664);
+    white-space:pre-wrap;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: ;
+}
+.coin{
+    font-size: 30px;
+    display: inline-block;
+    color: rgb(5, 78, 54);
+        font-family: "Lobster", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      
+
+.price{
+    display: inline-block;
+text-decoration: line-through;
+font-size: 15px;
+font-weight: 600;
+margin-left: 20px;
+margin-bottom: 25px;
+}
+.card{
+    height: 50px;
+    width: 200px;
+    background-color:rgba(6, 92, 34, 0.904);
+    color: aliceblue;
+    border-radius: 10px;
+}
+.card p{
+    color: aliceblue;
+    text-align: center;
+    padding-top: 18px;
+    font-family: sans-serif;
+    font-weight:700;
+    
+}
+i{
+    color: rgba(231, 236, 232, 0.815);
+    
+}
